@@ -1,6 +1,7 @@
 # Customer-Churn-ML-Proj
 # What is Customer Churn
-https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG
+![image](https://github.com/user-attachments/assets/dce22e84-c3dd-4313-828c-c8bdbd3509f3)
+
 In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
 
 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
@@ -30,4 +31,5 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG
+![image](https://github.com/user-attachments/assets/1dd082bf-cf4d-436c-954c-af46f3fda088)
+
